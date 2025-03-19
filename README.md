@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
+<h1 align="center">Opa, eu sou o Matheus! </h1>
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Sistemas | 🚀 Apaixonado por Tecnologia e Programação  
@@ -24,7 +24,6 @@
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ferreiraztx&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreiraztx&theme=tokyonight" />
 </p>
 
 ---
