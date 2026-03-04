@@ -1,13 +1,13 @@
 <h1 align="center">Opa, eu sou o Matheus! </h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas | 🚀 Apaixonado por Tecnologia e Programação  
+  💻 Técnico Desenvolvimento de Sistemas | 🚀 Apaixonado por Tecnologia e Programação  
 </p>
 
 ---
 
 ## 🧑‍💻 **Sobre mim**
-- 🎓 Atualmente cursando o terceiro ano do ensino médio em Desenvolvimento de Sistemas.  
+- 🎓 Atualmente terminei o ensino médio técnico em desenvolvimento de sistemas.  
 - 👨‍💻 Comecei a programar há algum tempo e adoro explorar novas tecnologias no meu tempo livre.  
 - 📚 Sempre buscando aprender mais sobre desenvolvimento web, back-end e novas tendências da tecnologia.  
 - ⚡ Curiosidade: Adoro desafios e resolver problemas com código!  
