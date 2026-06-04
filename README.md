@@ -2,9 +2,9 @@
 
 <img src="/logomf.png" alt="Logo Matheus Ferreira" height="80"/>
 
-# Matheus Ferreira — Portfólio
+# Matheus Ferreira
 
-**Estudante de Engenharia de Software | Desenvolvedor Frontend**
+**Estudante de Engenharia de Software | Desenvolvedor Fullstack**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -18,9 +18,11 @@
 
 ---
 
-## ✨ Sobre o projeto
+## ✨ Sobre 
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiências como estudante de Engenharia de Software. Conta com design moderno, tema claro/escuro e animações fluidas.
+Estudante de Engenharia de Software. Minha jornada na programação começou ao entrar no ensino médio, quando entrei para o ensino médio com técnico em Desenvolvimento de Sistemas.
+
+Atualmente, foco em desenvolvimento full-stack e automações usando o N8N. Acredito que o melhor código é aquele que resolve problemas reais.
 
 ---
 
