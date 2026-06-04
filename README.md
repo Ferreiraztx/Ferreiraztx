@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logomf.png" alt="Logo Matheus Ferreira" height="80"/>
+<img src="/logomf.png" alt="Logo Matheus Ferreira" height="80"/>
 
 # Matheus Ferreira — Portfólio
 
