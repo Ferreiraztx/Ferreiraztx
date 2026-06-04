@@ -10,10 +10,9 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-[🌐 Ver online](https://seusite.vercel.app) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/matheus-dos-santos-leal-ferreira-a13828357/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/Ferreiraztx)
+[🌐 Ver online](https://mathferreira.vercel.app) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/matheus-dos-santos-leal-ferreira-a13828357/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/Ferreiraztx)
 
 </div>
 
@@ -33,8 +32,6 @@ Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e exp
 | **TypeScript** | Tipagem estática |
 | **Tailwind CSS** | Estilização utilitária |
 | **Framer Motion** | Animações e transições |
-| **shadcn/ui** | Componentes de UI |
-| **Zustand** | Gerenciamento de estado |
 | **Vercel** | Deploy e hospedagem |
 
 ---
@@ -52,5 +49,5 @@ Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e exp
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por <a href="https://github.com/Ferreiraztx">Matheus Ferreira</a></sub>
+  <sub>Feito por <a href="https://github.com/Ferreiraztx">Matheus Ferreira</a></sub>
 </div>
