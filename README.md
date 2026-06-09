@@ -1,6 +1,10 @@
+<div align="center">
+
+<img src="/logomf.png" alt="Logo Matheus Ferreira" height="80"/>
+
 # Hi 👋, I'm Matheus Ferreira
 
-🚀 **Systems Development & Web Engineering | JS/TS Ecosystem** 🇧🇷 Brazil
+🚀 ** Software Engineering Student | Systems Development & Web Engineering ** 🇧🇷 Brazil
 
 I turn complex ideas into **scalable products, robust SaaS platforms, and high-performance web systems**.  
 My primary focus is bridging the gap between **clean architecture, smart workflow automation, and business-driven solutions**.
