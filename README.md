@@ -4,7 +4,8 @@
 
 # Hi 👋, I'm Matheus Ferreira
 
-🚀 ** Software Engineering Student | Systems Development & Web Engineering ** 🇧🇷 Brazil
+🚀 **Software Engineering Student | Systems Development & Web Engineering**
+🇧🇷 Brazil
 
 I turn complex ideas into **scalable products, robust SaaS platforms, and high-performance web systems**.  
 My primary focus is bridging the gap between **clean architecture, smart workflow automation, and business-driven solutions**.
